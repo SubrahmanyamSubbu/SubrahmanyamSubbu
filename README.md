@@ -1,4 +1,11 @@
-### Hi there 👋
+👋 Hii, I’m Subrahmanyam Mottadi
+- 👀 I’m interested in Analytics || Data Science || Machine Learning || Deep Learning
+- 🔭 I’m currently working on Analytics and Machine Learning
+- 🌱 I’m currently learning Deep Learning
+- 💞️ I’m looking to collaborate on Data Science Projects
+- 📫 How to reach me
+- LinkedIn https://www.linkedin.com/in/mottadi-subrahmanyam/
+- EmailID mottadisubrahmanyam22@gmail.com
 
 <!--
 **SubrahmanyamSubbu/SubrahmanyamSubbu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
